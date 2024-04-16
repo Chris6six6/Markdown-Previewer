@@ -28,5 +28,5 @@ This markdown previewer fulfills the following user stories:
 
 ## Preview
 
-[Click here to view the Markdown Previewer](URL_HERE)
+[Click here to view the Markdown Pewer](https://chris6six6.github.io/Markdown-Previewer/)
 
